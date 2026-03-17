@@ -1,17 +1,21 @@
-# myapp
+# Cartão de Visita Digital 📇
 
-A new Flutter project.
+Um aplicativo simples desenvolvido em **Flutter** que funciona como um cartão de visita digital e portfólio. Este projeto apresenta informações de contacto, cargo e redes sociais do desenvolvedor.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+* **Perfil:** Apresentação de foto, nome e cargo profissional.
+* **Informações:** Exibição de e-mail e número de telefone.
+* **Redes Sociais:** Botões com ícones que redirecionam diretamente para o Instagram, LinkedIn e GitHub do utilizador.
+* **Design:** Interface com cantos arredondados, sombras suaves e layout centrado.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias e Pacotes Utilizados
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* [Flutter](https://flutter.dev/) - Framework UI da Google.
+* [Dart](https://dart.dev/) - Linguagem de programação.
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) - Pacote utilizado para os ícones das redes sociais (Instagram, LinkedIn, GitHub).
+* [url_launcher](https://pub.dev/packages/url_launcher) - Pacote utilizado para abrir os links das redes sociais em aplicações externas ou no navegador.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshot do projeto
+
+<img src="https://raw.githubusercontent.com/drypzz/myapp-flutter/refs/heads/main/assets/screenshot.png" alt="Imagem do App" />
